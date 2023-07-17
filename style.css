@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+
+* {
+    background-color: darkgoldenrod;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
